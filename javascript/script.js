@@ -11,7 +11,7 @@ const costoalkm = 0.21;
 
 let costobase = chilometri * costoalkm
 console.log (costobase)
-// se luntente  è compreso tra 18e 64 anni non ottiene sconto
+// se luntente  è compreso tra 18 e 64 anni non ottiene sconto
 
 let sconto = 0;
 
@@ -24,4 +24,6 @@ if (età < 18){
  else if (età > 64){
     sconto =  costobase * 40 / 100
  }
+
+
 

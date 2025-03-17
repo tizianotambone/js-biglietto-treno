@@ -22,4 +22,4 @@ altrimenti non si applica sconto
 6-se l'utente è over 65 
 applicare il secondo sconto del 40%
 altrimenti non si applica sconto
-7-calcolo del prezzo finale
+7-calcolo del costo finale
