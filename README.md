@@ -16,9 +16,10 @@ SUDDIVISIONE DEL PROBLEMA
 3-inserire il costo 
 4-capire il prezzo base
 moltiplicando i chilometri per il costo 
-se l'utente è minorenne 
+5-se l'utente è minorenne 
 applicare il primo sconto del 20%
 altrimenti non si applica sconto 
-se l'utente è over 65 
+6-se l'utente è over 65 
 applicare il secondo sconto del 40%
 altrimenti non si applica sconto
+7-calcolo del prezzo finale
