@@ -25,5 +25,12 @@ if (età < 18){
     sconto =  costobase * 40 / 100
  }
 
+//  calcolo del costo finale
+
+ let costofinale = costobase -sconto
+
+ console.log(costofinale)
+
+
 
 
