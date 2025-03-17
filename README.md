@@ -8,3 +8,17 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 Numero di push minimo: 6
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
+
+
+SUDDIVISIONE DEL PROBLEMA
+1-Chiedere l'età all'utente
+2-chiedere il numero dei chilometri da percorrere
+3-inserire il costo 
+4-capire il prezzo base
+moltiplicando i chilometri per il costo 
+se l'utente è minorenne 
+applicare il primo sconto del 20%
+altrimenti non si applica sconto 
+se l'utente è over 65 
+applicare il secondo sconto del 40%
+altrimenti non si applica sconto
