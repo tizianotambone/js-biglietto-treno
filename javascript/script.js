@@ -1,3 +1,4 @@
+// inizio esercizio
 let età = parseInt(prompt("indica l'età"));
 console.log (età);
 
@@ -11,11 +12,13 @@ const costoalkm = 0.21;
 
 let costobase = chilometri * costoalkm
 console.log (costobase)
-// se luntente  è compreso tra 18 e 64 anni non ottiene sconto
+
+//sconto 0
 
 let sconto = 0;
 
 console.log(sconto)
+//  se luntente  è compreso tra 18 e 64 anni non ottiene sconto
 
 
 if (età < 18){
@@ -25,11 +28,18 @@ if (età < 18){
     sconto =  costobase * 40 / 100
  }
 
+
 //  calcolo del costo finale
 
  let costofinale = costobase -sconto
 
  console.log(costofinale)
+
+
+//  utlizzo del tofixed per avere massimo 2 decimali
+
+costofinale.toFixed (2)
+
 
 
 
